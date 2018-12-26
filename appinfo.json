@@ -1,10 +1,11 @@
 {
+  "sdkVersion": "3",
   "uuid": "28d613ad-61a5-4cf1-ae8f-21f6cce54f1f",
   "shortName": "CheatOnMe",
   "longName": "CheatOnMe",
   "companyName": "Jan Hodermarsky",
   "versionCode": 1,
-  "versionLabel": "1.0.0",
+  "versionLabel": "1.0",
   "watchapp": {
     "watchface": false
   },
